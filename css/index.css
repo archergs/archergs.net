@@ -1,0 +1,17 @@
+.column {
+    margin: 10px;
+    padding: 8px;
+}
+
+#apps {
+    margin-top: 32px;
+}
+
+.text-block {
+    position: absolute;
+}
+
+#header {
+    position: relative;
+    display: flex;
+}
