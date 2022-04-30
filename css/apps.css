@@ -2,13 +2,8 @@
     margin-top: 8pt;
 }
 
-.text-area {
-    height: 180px;
-}
-
 .appicon {
-    width: 180px;
+    width: 170px;
     border-radius: 12px;
-    float: left;
     margin-right: 16px;
 }
