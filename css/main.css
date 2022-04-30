@@ -26,8 +26,12 @@ html {
 .navbar{
     padding: 4pt;
     backdrop-filter: blur(100px);
-    background-color: rgba(0,0,0,0.0);
+    background-color: #d54c4c;
     
+}
+
+.navbar-dropdown {
+    background-color: #d54c4c;
 }
 
 .header-text {
