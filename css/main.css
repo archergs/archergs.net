@@ -1,27 +1,3 @@
-html {
-    background: linear-gradient(270deg, #d54c4c, #e68435, #9f35e6, #3550e6);
-    background-size: 800% 800%;
-
-    -webkit-animation: PageBackground 15s ease infinite;
-    -moz-animation: PageBackground 15s ease infinite;
-    animation: PageBackground 15s ease infinite;
-}
-
-@-webkit-keyframes PageBackground {
-    0%{background-position:19% 0%}
-    50%{background-position:82% 100%}
-    100%{background-position:19% 0%}
-}
-@-moz-keyframes PageBackground {
-    0%{background-position:19% 0%}
-    50%{background-position:82% 100%}
-    100%{background-position:19% 0%}
-}
-@keyframes PageBackground { 
-    0%{background-position:19% 0%}
-    50%{background-position:82% 100%}
-    100%{background-position:19% 0%}
-}
 
 .navbar{
     padding: 4pt;
