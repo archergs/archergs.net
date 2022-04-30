@@ -3,15 +3,10 @@
     padding: 8px;
 }
 
-#apps {
-    margin-top: 32px;
+.section {
+    padding: 16pt;
 }
-
-.text-block {
-    position: absolute;
-}
-
-#header {
-    position: relative;
-    display: flex;
+ 
+.card-content {
+    padding-left: 10pt;
 }
