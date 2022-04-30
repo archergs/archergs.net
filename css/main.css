@@ -25,13 +25,10 @@ html {
 
 .navbar{
     padding: 4pt;
-    backdrop-filter: blur(100px);
-    background-color: #d54c4c;
-    
 }
 
-.navbar-dropdown {
-    background-color: #d54c4c;
+#navmenu{
+    color: white;
 }
 
 .header-text {
