@@ -30,18 +30,3 @@ html {
 #navmenu{
     color: white;
 }
-
-.header-text {
-    color: white;
-}
-
-.text-area {
-    display: inline-block;
-}
-
-.appicon {
-    width: 128px;
-    border-radius: 12px;
-    float: left;
-    margin-right: 16px;
-}

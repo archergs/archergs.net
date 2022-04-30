@@ -1,0 +1,14 @@
+.app-store {
+    margin-top: 8pt;
+}
+
+.text-area {
+    height: 180px;
+}
+
+.appicon {
+    width: 180px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 16px;
+}
