@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    background-color: rgb(255, 195, 195);
+}
+
+img{
+    width: 100px;
+}
+
+.contact-text {
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 12px;
+    display: inline;
+}
+
+#contacts {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.contact-card{
+    display: inline;
+    background-color: rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+    margin: 8px;
+}

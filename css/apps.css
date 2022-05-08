@@ -2,8 +2,22 @@
     margin-top: 8pt;
 }
 
+.download-subtitle{
+    font-size: large;
+}
+
 .appicon {
     width: 170px;
     border-radius: 12px;
     margin-right: 16px;
+}
+
+#header{
+    padding-top: 24px;
+}
+
+.app-header{
+    background-color: rgba(161, 161, 161, 0.2);
+    border-radius: 12px;
+    padding: 12px;
 }
