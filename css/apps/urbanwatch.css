@@ -4,3 +4,11 @@ html {
     background: linear-gradient(225deg, #c33721, #eb7825);
     background-size: 100% 110%;
 }
+
+#press-kit{
+    color: white;
+    padding: 8px;
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 12px;
+    text-decoration: underline;
+}
